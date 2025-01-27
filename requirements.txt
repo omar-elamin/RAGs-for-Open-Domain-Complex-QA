@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+nltk
+torch
+rouge-score
+huggingface_hub
+transformers
+dexter-cqa==1.0.9
+sentence_transformers
+python-dotenv
+tqdm
